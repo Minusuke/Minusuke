@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://media.tenor.com/M-HGDm38fIUAAAAC/sanrio-cinnamoroll.gif
+![sanrio-cinnamoroll](https://github.com/Minusuke/Minusuke/assets/122645470/67f5a232-03b0-4a96-8297-ff09d4ad6d97)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
