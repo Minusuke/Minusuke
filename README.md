@@ -14,17 +14,12 @@ Yo soy 「 ✦𝐂𝐚𝐭𝐚𝐥𝐢𝐧𝐚 ✦ 」pero mis amigos me dicen �
 
 ### Tecnologías que utilizo :
 
-
+JS, HTML, CSS , SASS, BOOTSTRAP, PYTHON, POSTGRESQL, REACT, FIGMA, PS, AI, XD ,SKETCH, CANVA, OFIMÁTICA
  
-
-
-
-
-
-
-
-
+![OGC](https://github.com/Minusuke/Minusuke/assets/122645470/a605e00a-9f5a-4c42-b880-ebdc8c620e6c)
 
 
 - ⚡ Fun fact: 𝐏𝐚𝐫𝐚 𝐦𝐢 𝐥𝐨𝐬 𝐛𝐨𝐛𝐛𝐚 (𝐛𝐮𝐛𝐛𝐥𝐞 𝐭𝐞𝐚) 𝐬𝐨𝐧 𝐜𝐨𝐦𝐨 𝐞𝐥 𝐜𝐚𝐟é 𝐝𝐞 𝐥𝐨𝐬 𝐃𝐞𝐯𝐬, 𝐲𝐨 𝐧𝐨 𝐩𝐮𝐞𝐝𝐨 𝐭𝐨𝐦𝐚𝐫𝐥𝐨 𝐩𝐨𝐫𝐪𝐮𝐞 𝐭𝐞𝐧𝐠𝐨 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐚𝐬 𝐝𝐞𝐥 <𝟑
 ![sanrio-cinnamoroll](https://github.com/Minusuke/Minusuke/assets/122645470/67f5a232-03b0-4a96-8297-ff09d4ad6d97)
+
+![f693cf3867908a1e1b38910f65bc79cd](https://github.com/Minusuke/Minusuke/assets/122645470/c62eb486-ac07-4228-b881-02a5556bb8ad)
